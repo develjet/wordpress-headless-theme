@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Develjet Headless Theme version 1.0.0\n"
+"POT-Creation-Date: 2024-06-29 23:17-0600\n"
+"PO-Revision-Date: 2024-06-30 00:10-0600\n"
+"Last-Translator: \n"
+"Language-Team: Jesus Frausto <info@develjet.com>\n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+
+#: functions.php:47
+msgid "Primary menu"
+msgstr "Menu Principal"
+
+#: functions.php:48
+msgid "Secondary menu"
+msgstr "Menu Secundario"
+
+#: functions.php:49
+msgid "Mobile menu"
+msgstr "Menu para Móviles"
+
+#: functions.php:50
+msgid "Social links"
+msgstr "Enlaces Sociales"
+
+#: functions.php:115
+msgid "Redirect all trafic to:"
+msgstr "Redirigir todo el tráfico a:"
+
+#: functions.php:157
+msgid "https://example.com"
+msgstr "https://ejemplo.com"
+
+#: index.php:69
+msgid "Welcome to your new project!"
+msgstr "¡Bienvenido a tu nuevo proyecto!"
+
+#: index.php:70
+msgid "Everything is ready for you to start creating an amazing website..."
+msgstr "Todo está listo para que empieces a crear un sitio web increíble..."
+
+#~ msgid "Footer 1 menu"
+#~ msgstr "Menu 1 en Pie de página"
+
+#~ msgid "Footer 2 menu"
+#~ msgstr "Menu 2 en Pie de página"
+
+#~ msgid "Footer 3 menu"
+#~ msgstr "Menu 3 en Pie de página"
+
+#~ msgid "Footer 4 menu"
+#~ msgstr "Menu 4 en Pie de página"
